@@ -13,7 +13,7 @@ int main(){
     if(b!=0){
         printf("Quotient = %d\n", a/b);
     }else{
-        printf("Not Defined.\n");
+        printf("Quotient is not Defined.\n");
     }
     return 0;
 }
